@@ -5,6 +5,3 @@
 [submodule "jewel"]
 	path = jewel
 	url = https://github.com/annaplaksienko/jewel
-[submodule "methyLImp2"]
-	path = methyLImp2
-	url = https://github.com/annaplaksienko/methylimp2
